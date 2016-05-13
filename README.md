@@ -1,4 +1,4 @@
-# NJ Liquor Licenses (as of March 2016)
+# NJ Liquor Licenses (as of December 2015)
 
 [Related story](http://www.wnyc.org/story/njs-liquor-laws-were-set-very-different-population/)
 
